@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:0,Star JALSHA 
+http://217.20.112.199/starjalshahd/index.m3u8
+#EXTINF:0,Zee bangla 
+http://217.20.112.199/zeebangla/index.m3u8
+#EXTINF:0,Colors bangla
+http://217.20.112.199/colorsbangla/index.m3u8
+#EXTINF:0,Zee cinema 
+http://217.20.112.199/zeecinema/index.m3u8
+#EXTINF:0,&tv
+http://217.20.112.199/andtv/index.m3u8
+#EXTINF:0,star plus
+http://217.20.112.199/starplushd/index.m3u8
+#EXTINF:0,Pogo
+http://217.20.112.199/pogo/index.m3u8
+#EXTINF:0,zee tv
+http://217.20.112.199/zeetvhd/index.m3u8
+#EXTINF:0,Sun tv TAMIL 
+http://217.20.112.199/suntv/index.m3u8
+#EXTINF:0,Star vijay tv TAMIL 
+http://217.20.112.199/vijaytv/index.m3u8
+#EXTINF:0,GEMINI TV 
+http://217.20.112.199/gemini/index.m3u8
+#EXTINF:0,Sun tv TAMIL 
+http://217.20.112.199/suntv/index.m3u8
+#EXTINF:0,SURYA TV Malayalam 
+http://217.20.112.199/surya/index.m3u8
+#EXTINF:0,GEMINI TV 
+http://217.20.112.199/gemini/index.m3u8
+#EXTINF:0,Sun tv TAMIL 
+http://217.20.112.199/suntv/index.m3u8
+#EXTINF:0,SURYA TV Malayalam 
+http://217.20.112.199/surya/index.m3u8
+#EXTINF:0,Star vijay tv TAMIL 
+http://217.20.112.199/vijaytv/index.m3u8
+
+#EXTINF:0,Sun tv TAMIL 
+http://217.20.112.199/suntv/index.m3u8
+#EXTINF:0,SURYA TV Malayalam 
+http://217.20.112.199/surya/index.m3u8
+#EXTINF:0,Asaianet MALAYALAM 
+http://217.20.112.199/asianet/index.m3u8
+#EXTINF:0,Andtv
+http://217.20.112.199/andtv/index.m3u8
+#EXTINF:0,GEMINI TV 
+http://217.20.112.199/gemini/index.m3u8
+#EXTINF:0,Star gold 2
+http://217.20.112.199/stargold2/index.m3u8
+#EXTINF:0,Star gold select 
+http://217.20.112.199/stargold/index.m3u8
+#EXTINF:0,Zee Marathi 
+http://217.20.112.199:8888/zeemarathi/index.m3u8
+#EXTINF:0,Sony Marathi 
+http://217.20.112.199:8888/sonymarathi/index.m3u8
